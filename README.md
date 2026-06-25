@@ -1,6 +1,6 @@
 # 🛒 Walmart Weekly Sales — Prédiction des ventes par indicateurs macroéconomiques
 
-![Python](https://img.shields.io/badge/Python-3.13-blue) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange) ![Pandas](https://img.shields.io/badge/Pandas-Data-green) ![Plotly](https://img.shields.io/badge/Plotly-Dataviz-purple) ![Jedha](https://img.shields.io/badge/Bootcamp-Jedha-red)
+![Python](https://img.shields.io/badge/Python-3.13-blue) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange) ![Pandas](https://img.shields.io/badge/Pandas-Data-green) ![Plotly](https://img.shields.io/badge/Plotly-Dataviz-purple)
 
 > Projet réalisé dans le cadre du Bootcamp Data Analyst Fullstack — Jedha (RNCP Niveau 6)
 
